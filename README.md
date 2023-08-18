@@ -139,7 +139,8 @@ If you want to add a new shape, such as a square, you can extend the Shape class
 
 ## L : Liskov Substitution Principle
 Defination :
-)bjects of a derived class should be able to replace objects of the base class without affecting the correctness of the program
+
+Objects of a derived class should be able to replace objects of the base class without affecting the correctness of the program
 ```
 class Shape {
     // Common properties and methods for all shapes
