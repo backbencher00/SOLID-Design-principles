@@ -138,7 +138,7 @@ The AreaCalculator class has a calculateTotalArea method that accepts an array o
 If you want to add a new shape, such as a square, you can extend the Shape class and provide its implementation of the calculateArea method without modifying existing code.
 
 ## L : Liskov Substitution Principle
-Defination :
+Defination:
 
 Objects of a derived class should be able to replace objects of the base class without affecting the correctness of the program
 ```
